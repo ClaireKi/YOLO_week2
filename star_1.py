@@ -1,3 +1,2 @@
-N=range(1,101)
-for x in N:
+for x in range(1,101):
     print("*" * x)
